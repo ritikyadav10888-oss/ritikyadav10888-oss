@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 # Hi, I'm Ritik 👋<br><br>🎓 Information Technology Engineer (Mumbai University, 2024)  <br>💻 Full-stack developer skilled in React.js, Node.js, Express, MongoDB  <br>🔐 Passionate about building secure, scalable apps with role-based authentication  <br>⚡ Experienced in hackathons, rapid prototyping, and healthcare-focused solutions  <br>📊 Strong in SQL query optimization, backend logic, and responsive UI/UX design  <br>📄 Love documenting workflows, diagrams, and crafting impactful presentations  <br><br>🚀 Currently working as an individual developer at Force Sport India <br>🌱 Learning more about advanced backend architecture & payment gateway integration  <br>
 
 
